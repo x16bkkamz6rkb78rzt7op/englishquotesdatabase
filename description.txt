@@ -1,0 +1,1 @@
+This is a mysql database of 75968 English quotes. The four column names are idnumber, quote, author and genre.
